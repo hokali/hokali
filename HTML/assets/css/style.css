@@ -230,7 +230,7 @@ p {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #fb0700;
+  color: black;
   -webkit-transition: all 0.5s;
 	-moz-transition: all 0.5;
   transition: all 0.5s;
